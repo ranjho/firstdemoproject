@@ -27,3 +27,8 @@ Love
 Life
 Wife
 ```
+This page is edited using [this link](https://pages.github.com/)
+
+What is your gender?
+[x] Male
+[ ] Female
