@@ -20,3 +20,10 @@ My contact number is
 > 0745997657
 
 Your status is `offline`
+
+Three words to remember
+```
+Love
+Life
+Wife
+```
