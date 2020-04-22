@@ -6,4 +6,4 @@
 
 This is my first demo project
 
-** Bold Sign **
+**Bold Character**
